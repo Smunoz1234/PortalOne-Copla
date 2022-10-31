@@ -1,0 +1,1 @@
+Todos los derechos reservados &copy; 2020<br>Desarrollado por NEDUGA TECH S.A.S.<br><a href="https://www.nedugatech.com" target="_blank">www.nedugatech.com</a><br><span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=GWScEjRiR9JIgUDHFb2HLo8HEqw6WRludK7lO6bEISuclq3jsT6P1GlbSpny"></script></span>

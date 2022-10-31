@@ -1,0 +1,14 @@
+:: NOTAS DE LA VERSIÓN ::
+1.3
+Se crea el módulo de Gestión de tareas.
+
+1.2
+Se crea la categoria Calidad que funciona como otra categoria entre los documentos e informes.
+Este aparece como una opción en el menú y se pueden crear categorias dentro de la misma.
+
+1.1
+Se corrige un error que mostraba todas las sucursales de los clientes incluso si solo tenian unas cuantas habilitadas.
+Se crea una nueva función que permite limpiar los nombres de los archivos quitando los caracteres especiales y los acentos.
+
+1.0
+Se realiza la primera versión final del software.
